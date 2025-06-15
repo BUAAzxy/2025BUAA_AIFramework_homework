@@ -1,0 +1,34 @@
+# ====== RETFound-MAE Paddle – requirements.txt (pinned versions) ======
+paddlepaddle-gpu==3.0.0
+
+# 科学计算 & 数据处理
+numpy==1.24.4
+pandas==2.2.3
+scikit-learn==1.4.2
+pyarrow==19.0.1
+einops==0.8.1
+
+# 计算机视觉 & 模型仓库
+timm==0.9.16
+torch==2.7.0
+torchvision==0.22.0
+transformers==4.33.3
+
+# 训练工具与日志
+tqdm==4.66.1
+visualdl==2.5.3
+tensorboard==2.17.1
+pycm==4.3
+packaging==23.2
+
+# 图形 / 可视化
+matplotlib==3.8.4
+pillow==10.2.0
+
+# Jupyter 交互
+jupyterlab==4.0.7
+ipywidgets==8.1.7
+
+# 其他常用工具
+requests==2.31.0
+PyYAML==6.0.1
