@@ -113,7 +113,7 @@ bash run.sh
 
 *注：以上指标数据提取自对应输出目录下的 `metrics_test.csv` 文件。*
 
-## 6. 致谢 (Acknowledgements)
+## 6. 致谢
 
 本项目是在 **`rmaphoh/RETFound_MAE`** 的代码基础上完成的。我们对原作者的开源贡献表示衷心的感谢。
 
